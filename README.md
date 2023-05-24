@@ -11,7 +11,7 @@ This concept emphasizes the binary tree's hierarchical structure, where nodes ca
 
 ## Binary Tree
 
-``bash
+```bash
   /**
  * struct binary_tree_s - Binary tree node
  *
@@ -42,5 +42,6 @@ typedef struct binary_tree_s binary_tree_t;
 ```bash
   typedef struct binary_tree_s heap_t;
 ```
+
 ## Author
 - Ahmed Toukebri
